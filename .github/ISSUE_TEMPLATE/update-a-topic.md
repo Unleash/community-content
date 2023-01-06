@@ -1,6 +1,11 @@
-| name | about | title | labels | assignees |
-| --- | --- | --- | --- | --- | 
-| Update a Topic | Request an Update a tutorial/article from the Community, or the Unleash Team. | [UPDATE] | Looking for Author, Needs Update | pransh15 |
+---
+name: Update a Topic
+about: Request an Update a tutorial/article from the Community, or the Unleash Team.
+title: [UPDATE]
+labels: Looking for Author, Needs Update
+assignees: pransh15
+
+---
 
 Request Details
 

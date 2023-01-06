@@ -1,6 +1,11 @@
-| name | about | title | labels | assignees |
-| --- | --- | --- | --- | --- | 
-| Report Content Issue | Report an Issue with tutorial/article. | [ISSUE] | Reported Issue | pransh15 |
+---
+name: Report Content Issue
+about: Report an Issue with tutorial/article.
+title: [ISSUE]
+labels: Reported Issue
+assignees: pransh15
+
+---
 
 Request Details
 

@@ -1,6 +1,11 @@
-| name | about | title | labels | assignees |
-| --- | --- | --- | --- | --- | 
-| Submit New Topic | Submit a tutorial/article/topic idea. | [SUBMIT] | Request by Author | pransh15 |
+---
+name: Submit New Topic
+about: Submit a tutorial/article/topic idea.
+title: [SUBMIT]
+labels: Request by Author
+assignees: pransh15
+
+---
 
 Request Details
 
