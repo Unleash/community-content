@@ -1,7 +1,7 @@
 ---
 name: Submit New Topic
 about: Submit a tutorial/article/topic idea.
-title: [SUBMIT]
+title: SUBMIT
 labels: Request by Author
 assignees: pransh15
 

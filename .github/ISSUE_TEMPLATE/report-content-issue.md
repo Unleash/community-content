@@ -1,7 +1,7 @@
 ---
 name: Report Content Issue
 about: Report an Issue with tutorial/article.
-title: [ISSUE]
+title: ISSUE
 labels: Reported Issue
 assignees: pransh15
 

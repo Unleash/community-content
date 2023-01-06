@@ -1,7 +1,7 @@
 ---
 name: Update a Topic
 about: Request an Update a tutorial/article from the Community, or the Unleash Team.
-title: [UPDATE]
+title: UPDATE
 labels: Looking for Author, Needs Update
 assignees: pransh15
 

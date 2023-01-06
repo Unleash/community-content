@@ -1,7 +1,7 @@
 ---
 name: Request a Topic
 about: Request a tutorial/article/topic from the Community.
-title: [REQUEST]
+title: REQUEST
 labels: Looking for Author
 assignees: pransh15
 
